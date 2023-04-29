@@ -27,3 +27,4 @@ The Home Depot, Inc., commonly known as Home Depot, is the largest home improvem
 
 ### Checkout page by[@Anusha](https://github.com/anushaAnu333)
 ![screencapture-127-0-0-1-5500-checkout-html-2022-02-27-11_48_08](https://user-images.githubusercontent.com/93834423/155871955-1fb2f765-b4ba-4b3f-94b7-5a38cc2ca0c1.png)
+![Capture](https://user-images.githubusercontent.com/97446064/235299398-5e9b9c87-cb19-4132-a159-13888fa9b9c8.PNG)
